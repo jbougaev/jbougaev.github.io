@@ -52,6 +52,10 @@ permalink: /second-guidline/
 
     media that presents no more information than is already presented in text (directly or via text alternatives). Media alternatives for text may be audio-only, video-only (including sign-language video), or audio-video.
 
+- **alternative for time-based media**
+  
+    document including correctly sequenced text descriptions of time-based visual and auditory information and providing a means for achieving the outcomes of any time-based interaction
+
 [source](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media)
 
 </div>
