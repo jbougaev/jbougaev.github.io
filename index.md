@@ -10,4 +10,8 @@
 
     - [Guidline #2: Time-based Media](https://shoshiko.github.io/second-guidline)
 
+    - [Guidline #3: Adaptable](https://shoshiko.github.io/third-guidline)
+
+    - [Guidline #3: Distinguishable](https://shoshiko.github.io/forth-guidline)
+
 - [Conformance](https://shoshiko.github.io/conformance)
