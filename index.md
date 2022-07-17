@@ -6,6 +6,6 @@
 
   - Principle #1: Perceivable
 
-    - Guidline #1: Text Alternatives
+    - [Guidline #1: Text Alternatives](https://shoshiko.github.io/first-guidline)
 
 - [Conformance](https://shoshiko.github.io/conformance)
