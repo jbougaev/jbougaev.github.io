@@ -28,7 +28,7 @@ permalink: /second-guidline/
 
 - ## 1.2.2: Captions (Prerecorded) (Level A)
 
-    Captions are provided for all prerecorded audio content in synchronized media, except when the media is a media alternative for text and is clearly labeled as such.
+    Provided for all prerecorded audio content in synchronized media, **except when** the media is a media alternative for text and is clearly labeled as such.
 
 ## SC #1 (1.2.3): Audio Description or Media Alternative (Prerecorded) (Level A)
 
