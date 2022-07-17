@@ -6,7 +6,7 @@ p{
     color: black !important;
 }
 
-html, body{
+html, body, #container{
     background: #fafafa !important;
 }
 
