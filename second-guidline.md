@@ -12,7 +12,7 @@ permalink: /second-guidline/
 
 **Intent:** Provide alternatives for time-based media.
 
-## Success criterias (9)
+## Success criterias (9):
 
 - ## 1.2.1: Audio-only and Video-only (Prerecorded) (Level A)
 
