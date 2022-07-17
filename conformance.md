@@ -8,7 +8,7 @@ permalink: /conformance/
    
 <div class="inner" markdown="1">
 
-## Conformance
+# Conformance
 
 Conformance to a standard = you meet its 'requirements'.
 

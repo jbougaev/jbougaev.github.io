@@ -8,7 +8,7 @@ permalink: /overview/
    
 <div class="inner" markdown="1">
 
-## WCAG document structure
+# WCAG document structure
 
 To better understand where we are going to go first let's  get a bird's eye view on WCAG 2.0 document.
 
