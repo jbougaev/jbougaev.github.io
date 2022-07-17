@@ -32,12 +32,12 @@ All non-text content should have a text alternative that serves **the equivalent
 
     Text alternatives that **identify and describe the purpose** of the non-text content are provided, and alternative forms of CAPTCHA using output modes for different types of sensory perception are provided to accommodate different disabilities.
 
-    [Additional info](https://www.w3.org/TR/turingtest/)
+    [Additional info](https://www.w3.org/TR/turingtest/){:target="_blank"}
 
 - **Decoration, Formatting, Invisible**
 
     Should be  implemented in a way that it **can be ignored** by assistive technology.
 
-[source](https://www.w3.org/WAI/WCAG21/Understanding/text-alternatives)
+[source](https://www.w3.org/WAI/WCAG21/Understanding/text-alternatives){:target="_blank"}
 
 </div>

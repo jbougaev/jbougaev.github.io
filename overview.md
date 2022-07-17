@@ -16,13 +16,13 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 ## Versions
 
-- [WCAG 2.0](https://www.w3.org/TR/WCAG20/) was published in 2008
+- [WCAG 2.0](https://www.w3.org/TR/WCAG20/){:target="_blank"} was published in 2008
 
-- [WCAG 2.1](https://www.w3.org/TR/WCAG21/) was published in 2018, extends WCAG 2.0
+- [WCAG 2.1](https://www.w3.org/TR/WCAG21/){:target="_blank"} was published in 2018, extends WCAG 2.0
 
-- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) Draft is scheduled to be finalized by September 2022
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/){:target="_blank"} Draft is scheduled to be finalized by September 2022
 
-- [WCAG 3.0](https://www.w3.org/TR/wcag-3.0/) is W3C Working Draft created on 07 December 2021
+- [WCAG 3.0](https://www.w3.org/TR/wcag-3.0/){:target="_blank"} is W3C Working Draft created on 07 December 2021
 
 &nbsp; 
 
@@ -72,12 +72,12 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 ## Links
 
-- [Failures for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/failures)
+- [Failures for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/failures){:target="_blank"}
 
-- [Techniques for WCAG 2.9](https://www.w3.org/TR/WCAG20-TECHS/)
+- [Techniques for WCAG 2.9](https://www.w3.org/TR/WCAG20-TECHS/){:target="_blank"}
 
-- [HTML Accessibility API Mappings 1.0](https://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-computation)
+- [HTML Accessibility API Mappings 1.0](https://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-computation){:target="_blank"}
 
-- [APG](https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/)
+- [APG](https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/){:target="_blank"}
 
 </div>
