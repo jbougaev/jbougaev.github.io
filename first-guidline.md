@@ -12,7 +12,7 @@ permalink: /first-guidline/
 
 **Intent:** All non-text content is also available in text
 
-## SC #1: Non-text Content (1.1.1) (Level A)
+## SC #1 (1.1.1): Non-text Content (Level A)
 
 All non-text content should have a text alternative that serves **the equivalent purpose**, except for the situations listed below.
 
