@@ -16,25 +16,25 @@ permalink: /first-guidline/
 
 All non-text content should have a text alternative that serves **the equivalent purpose**, except for the situations listed below.
 
-- Controls, Input (see SC 4.1.2)
+- **Controls, Input** (see SC 4.1.2)
 
-- Time-Based Media (see G 1.2)
+- **Time-Based Media** (see G 1.2)
 
-- Test (or exercise)
+- **Test (or exercise)**
   
     Text alternatives should at least provide **descriptive identification** of the non-text content.
 
-- Sensory for a specific sensory experience
+- **Sensory for a specific sensory experience**
   
     Text alternatives should at least provide **descriptive identification** of the non-text content.
 
-- CAPTCHA
+- **CAPTCHA**
 
     Text alternatives that **identify and describe the purpose** of the non-text content are provided, and alternative forms of CAPTCHA using output modes for different types of sensory perception are provided to accommodate different disabilities.
 
     [Additional info](https://www.w3.org/TR/turingtest/)
 
-- Decoration, Formatting, Invisible
+- **Decoration, Formatting, Invisible**
 
     Should be  implemented in a way that it **can be ignored** by assistive technology.
 
