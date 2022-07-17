@@ -8,6 +8,6 @@
 
     - [Guidline #1: Text Alternatives](https://shoshiko.github.io/first-guidline)
 
-    - [Guidline #2: Text Alternatives](https://shoshiko.github.io/second-guidline)
+    - [Guidline #2: Time-based Media](https://shoshiko.github.io/second-guidline)
 
 - [Conformance](https://shoshiko.github.io/conformance)

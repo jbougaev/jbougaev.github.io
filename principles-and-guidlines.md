@@ -14,8 +14,8 @@ permalink: /principles-and-guidlines/
 ## 1. Perceivable 
 Must be presentable to users **in ways they can perceive**.
 
-1. **Text Alternatives**: for any non-text content.
-2. **Time-based Media**: provide alternatives.
+1. [**Text Alternatives**](https://shoshiko.github.io/first-guidline): for any non-text content.
+2. [**Time-based Media**](https://shoshiko.github.io/second-guidline): provide alternatives.
 3. **Adaptable**: Content can be presented in different ways without losing information or structure.
 4. **Distinguishable**: Make it easier for users to see and hear content.
 
