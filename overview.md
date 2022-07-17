@@ -15,13 +15,13 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 ## Versions
 
-[WCAG 2.0](https://www.w3.org/TR/WCAG20/) was published in 2008
+- [WCAG 2.0](https://www.w3.org/TR/WCAG20/) was published in 2008
 
-[WCAG 2.1](https://www.w3.org/TR/WCAG21/) was published in 2018, extends WCAG 2.0
+- [WCAG 2.1](https://www.w3.org/TR/WCAG21/) was published in 2018, extends WCAG 2.0
 
-[WCAG 2.2](https://www.w3.org/TR/WCAG22/) Draft is scheduled to be finalized by September 2022
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) Draft is scheduled to be finalized by September 2022
 
-[WCAG 3.0](https://www.w3.org/TR/wcag-3.0/) is W3C Working Draft created on 07 December 2021
+- [WCAG 3.0](https://www.w3.org/TR/wcag-3.0/) is W3C Working Draft created on 07 December 2021
 
 &nbsp; 
 
