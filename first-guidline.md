@@ -8,7 +8,7 @@ permalink: /first-guidline/
    
 <div class="inner" markdown="1">
 
-# 1. Text Alternatives (1.1) with 1 SC.
+# 1. Text Alternatives (1.1)
 
 **Intent:** All non-text content is also available in text
 
