@@ -26,7 +26,7 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 &nbsp; 
 
-## WCAG 2.0 hierarchy ([source](https://www.audioeye.com/post/web-content-accessibility-guidelines/)):
+## WCAG 2.0 hierarchy ([source](https://www.audioeye.com/post/web-content-accessibility-guidelines/){:target="_blank"}):
 
 * Principles: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4
   
