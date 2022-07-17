@@ -1,2 +1,4 @@
 markdown: kramdown
 heme: jekyll-theme-merlot
+plugins:
+  - jekyll-feed
