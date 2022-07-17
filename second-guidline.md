@@ -30,7 +30,9 @@ permalink: /second-guidline/
 
     Provided for all prerecorded audio content in synchronized media, **except when** the media is a media alternative for text and is clearly labeled as such.
 
-## SC #1 (1.2.3): Audio Description or Media Alternative (Prerecorded) (Level A)
+- ## 1.2.3: Audio Description or Media Alternative (Prerecorded) (Level A)
+
+    An alternative for time-based media **(i.e. text)** or **audio description** of the prerecorded video content is provided **for synchronized media**, **except when** the media is a media alternative for text and is clearly labeled as such.
 
 ## SC #1 (1.2.4: Captions (Live) (Level A)
 
@@ -55,6 +57,10 @@ permalink: /second-guidline/
 - **alternative for time-based media**
   
     document including correctly sequenced text descriptions of time-based visual and auditory information and providing a means for achieving the outcomes of any time-based interaction
+
+- **synchronized media**
+  
+    audio or video synchronized with another format for presenting information and/or with time-based interactive components, unless the media is a media alternative for text that is clearly labeled as such
 
 [source](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media){:target="_blank"}
 
