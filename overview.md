@@ -56,28 +56,28 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 ## Abbreviations:
 
-**WCAG** &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Content Accessibility Guidelines
+- **WCAG** &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Content Accessibility Guidelines
 
-**WAI**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web Accessibility Initiative
+- **WAI**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web Accessibility Initiative
 
-**W3C**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; World Wide Web Consortium
+- **W3C**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; World Wide Web Consortium
 
-**ARIA** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Accessible Rich Internet Applications
+- **ARIA** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Accessible Rich Internet Applications
 
-**ATAG** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Authoring Tool Accessibility Guidelines
+- **ATAG** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Authoring Tool Accessibility Guidelines
 
-**APG**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ARIA Authoring Practices Guide
+- **APG**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ARIA Authoring Practices Guide
 
 &nbsp; 
 
 ## Links
 
-[Failures for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/failures)
+- [Failures for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/failures)
 
-[Techniques for WCAG 2.9](https://www.w3.org/TR/WCAG20-TECHS/)
+- [Techniques for WCAG 2.9](https://www.w3.org/TR/WCAG20-TECHS/)
 
-[HTML Accessibility API Mappings 1.0](https://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-computation)
+- [HTML Accessibility API Mappings 1.0](https://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-computation)
 
-[APG](https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/)
+- [APG](https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/)
 
 </div>
