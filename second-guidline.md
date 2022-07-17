@@ -56,6 +56,6 @@ permalink: /second-guidline/
   
     document including correctly sequenced text descriptions of time-based visual and auditory information and providing a means for achieving the outcomes of any time-based interaction
 
-[source](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media)
+[source](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media){:target="_blank"}
 
 </div>
