@@ -18,13 +18,13 @@ permalink: /second-guidline/
 
     **Prerecorded Audio-only**
 
-    An alternative for time-based media is provided that presents equivalent information for prerecorded audio-only content.
+    An alternative for time-based media **(i.e. text)** is provided that presents equivalent information for prerecorded audio-only content.
 
     **Prerecorded Video-only**
 
-    Either an alternative for time-based media or an audio track is provided that presents equivalent information for prerecorded video-only content.
+    Either an alternative for time-based media **(i.e. text)** or **an audio track** is provided that presents equivalent information for prerecorded video-only content.
 
-    A text equivalent **is not required** for audio that is provided as an equivalent for video with no audio information. For example, it is not required to caption video description that is provided as an alternative to a silent movie.
+    **NOTE:** A text equivalent **is not required** for audio that is provided as an equivalent for video with no audio information. For example, it is not required to caption video description that is provided as an alternative to a silent movie.
 
 - ## 1.2.2: Captions (Prerecorded) (Level A)
 
