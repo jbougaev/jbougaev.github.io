@@ -27,11 +27,11 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 ## WCAG 2.0 hierarchy ([source](https://www.audioeye.com/post/web-content-accessibility-guidelines/)):
 
-* Principles: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4
+* Principles: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4
   
 * Guidelines: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12
   
-* Testable Success Criteria:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 61
+* Testable Success Criteria:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;61
   
 * Priority Conformance Levels:&nbsp; &nbsp; &nbsp; A (25), AA (13), AAA (23)
   
@@ -41,11 +41,11 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 ## WCAG 2.1 hierarchy:
 
-* Principles: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4
+* Principles: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4
   
 * Guidelines: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12
   
-* Testable Success Criteria:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 78
+* Testable Success Criteria:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 78
   
 * Priority Conformance Levels:&nbsp; &nbsp; &nbsp; A (25), AA (13), AAA (23)
   
@@ -55,17 +55,17 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 ## Abbreviations:
 
-**WCAG** &nbsp; &nbsp; Web Content Accessibility Guidelines
+**WCAG** &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Content Accessibility Guidelines
 
 **WAI**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web Accessibility Initiative
 
 **W3C**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; World Wide Web Consortium
 
-**ARIA** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Accessible Rich Internet Applications
+**ARIA** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Accessible Rich Internet Applications
 
-**ATAG** &nbsp; &nbsp; &nbsp; &nbsp; Authoring Tool Accessibility Guidelines
+**ATAG** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Authoring Tool Accessibility Guidelines
 
-**APG**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ARIA Authoring Practices Guide
+**APG**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ARIA Authoring Practices Guide
 
 &nbsp; 
 
