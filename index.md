@@ -14,4 +14,10 @@
 
     - [Guidline #4: Distinguishable](https://shoshiko.github.io/forth-guidline)
 
+  - Principle #2: Operable
+
+  - Principle #3: Understandable
+
+  - Principle #4: Robust
+
 - [Conformance](https://shoshiko.github.io/conformance)
