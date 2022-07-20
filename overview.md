@@ -82,4 +82,6 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 - [ARIA in HTML](https://www.w3.org/TR/html-aria/){:target="_blank"}
 
+- [Landmark Regions](https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/){:target="_blank"}
+
 </div>
