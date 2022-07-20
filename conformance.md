@@ -10,6 +10,8 @@ permalink: /conformance/
 
 # Conformance
 
+&nbsp;
+
 Conformance to a standard = you meet its 'requirements'.
 
 'requirements' = **Success Criteria**.

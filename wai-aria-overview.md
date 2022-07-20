@@ -10,9 +10,11 @@ permalink: /wai-aria-overview/
 
 # WAI-ARIA
 
-- Provides a framework for adding attributes to identify features for user interaction, how they relate to each other, and their current state. 
+&nbsp;
 
-- Describes navigation techniques to mark regions and common Web structures as menus, primary content, secondary content, banner information, and other types of Web structures.
+- Provides **a framework for adding attributes** to identify features for user interaction, how they relate to each other, and their current state. 
+
+- Describes **navigation techniques to mark regions and common Web structures** as menus, primary content, secondary content, banner information, and other types of Web structures.
 
 - Defines a way to make Web content and Web applications more accessible to people with disabilities. 
   
@@ -31,6 +33,8 @@ For example, if you are using a <div> to create a checkbox, along with some scri
 That said though, when there is a native HTML element available, like a checkbox, it is almost always better to use the native version than creating your own. 
 
 For native HTML elements, it is not necessary to use WAI-ARIA. 
+
+&nbsp;
 
 [source](https://www.w3.org/WAI/standards-guidelines/aria/){:target="_blank"}
 

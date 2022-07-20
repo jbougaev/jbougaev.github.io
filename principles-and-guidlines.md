@@ -10,6 +10,7 @@ permalink: /principles-and-guidlines/
 
 # Principles (4) and Guidlines (12)
 
+&nbsp;
 
 ## 1. Perceivable 
 Must be presentable to users **in ways they can perceive**.

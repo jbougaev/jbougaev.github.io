@@ -20,8 +20,6 @@ permalink: /third-guidline/
 
     For example, the presentation **format changes** when **the content is read by a screen reader** or when **a user style sheet is substituted** for the style sheet provided by the author.
 
-
-
 &nbsp;
 
 ### Glossary:
@@ -30,11 +28,11 @@ permalink: /third-guidline/
   
     determined by software from author-supplied data provided in a way that different user agents, including assistive technologies, can extract and present this information to users in different modalities
 
-    **NOTE**
+    NOTE
 
     Determined in a markup language from elements and attributes that are accessed directly by commonly available assistive technology.
 
-    **NOTE**
+    NOTE
 
     Determined from technology-specific data structures in a non-markup language and exposed to assistive technology via an accessibility API that is supported by commonly available assistive technology.
 
