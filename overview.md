@@ -80,4 +80,12 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 - [APG](https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/){:target="_blank"}
 
+- [ARIA in HTML](https://www.w3.org/TR/html-aria/){:target="_blank"}
+
+- [Landmark Regions](https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/){:target="_blank"}
+
+- [Web without CSS](https://css-tricks.com/that-time-i-tried-browsing-the-web-without-css/){:target="_blank"}
+
+- [Accessible Web](https://accessibleweb.com){:target="_blank"}
+
 </div>
