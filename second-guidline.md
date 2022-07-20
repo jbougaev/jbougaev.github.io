@@ -18,13 +18,13 @@ permalink: /second-guidline/
 
   - **Prerecorded Audio-only**
 
-    An alternative for time-based media **(i.e. text)** is provided that presents equivalent information for prerecorded audio-only content.
+    An alternative for time-based media **(i.e. text)** which presents equivalent information.
 
   - **Prerecorded Video-only**
 
-    Either an alternative for time-based media **(i.e. text)** or **an audio track** is provided that presents equivalent information for prerecorded video-only content.
+    Either an alternative for time-based media **(i.e. text)** or **an audio track** which present equivalent information.
 
-    **NOTE:** **A text** equivalent **is not required** **for audio** that is provided as an equivalent **for video with no audio** information. For example, it is not required to caption video description that is provided as an alternative to a silent movie.
+    **NOTE:** **A text** equivalent **is not required** **for audio** that is provided as an equivalent **for video with no audio** information. (For example, it is not required to caption video description that is provided as an alternative to a silent movie.)
 
 - ## 1.2.2: Captions (Prerecorded) (Level A)
 
@@ -34,17 +34,31 @@ permalink: /second-guidline/
 
     An alternative for time-based media **(i.e. text)** or **audio description** of the prerecorded video content is provided **for synchronized media**, **except when** the media is a media alternative for text and is clearly labeled as such.
 
-## SC #1 (1.2.4: Captions (Live) (Level A)
+- ## 1.2.4: Captions (Live) (Level A)A
 
-## SC #1 (1.2.5): Audio Description (Prerecorded) (Level A)
+    Captions are provided for all live audio content in synchronized media (real-time presentations).
 
-## SC #1 (1.2.6): Sign Language (Prerecorded) (Level A)
+    Responsibility for providing captions would fall to the content providers (the callers) or the “host” caller, and not the application.
 
-## SC #1 (1.2.7): Extended Audio Description (Prerecorded) (Level A)
+- ## 1.2.5: Audio Description (Prerecorded) (Level AA)
+  
+    Audio description is provided for all prerecorded video content in synchronized media (to provide people who are blind or visually impaired access to the visual information).
 
-## SC #1 (1.2.8): Media Alternative (Prerecorded) (Level A)
+- ## 1.2.6: Sign Language (Prerecorded) (Level AAA)
 
-## SC #1 (1.2.9): Audio-only (Live) (Level A)
+     Sign language interpretation is provided for all prerecorded audio content in synchronized media.
+
+- ## 1.2.7: Extended Audio Description (Prerecorded) (Level AAA)
+
+    Where pauses in foreground audio are insufficient to allow audio descriptions to convey the sense of the video, extended audio description is provided for all prerecorded video content in synchronized media.
+
+- ## 1.2.8: Media Alternative (Prerecorded) (Level AAA)
+
+    An alternative for time-based media is provided for all prerecorded synchronized media and for all prerecorded video-only media. (The alternative for time-based media reads something like a book.  Individuals whose vision is too poor to reliably read captions and whose hearing is too poor to reliably hear dialogue can access the alternative for time-based media by using a refreshable braille display.)
+
+- ## 1.2.9: Audio-only (Live) (Level AAA)
+
+    An alternative for time-based media that presents equivalent information for live audio-only content is provided.
 
 &nbsp;
 
@@ -61,6 +75,14 @@ permalink: /second-guidline/
 - **synchronized media**
   
     audio or video synchronized with another format for presenting information and/or with time-based interactive components, unless the media is a media alternative for text that is clearly labeled as such
+
+- **audio description**
+  
+    narration added to the soundtrack to describe important visual details that cannot be understood from the main soundtrack alone
+
+- **extended audio description**
+  
+    audio description that is added to an audiovisual presentation by pausing the video so that there is time to add additional description
 
 [source](https://www.w3.org/WAI/WCAG21/Understanding/time-based-media){:target="_blank"}
 
