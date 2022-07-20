@@ -88,4 +88,6 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 - [Accessible Web](https://accessibleweb.com){:target="_blank"}
 
+- [Best Practices](https://www.deque.com/blog/category/accessibility-best-practices/){:target="_blank"}
+
 </div>

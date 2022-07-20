@@ -10,4 +10,6 @@ permalink: /techniques/
 
 - Using the aria-describedby property to provide a descriptive label for user interface controls
 
+- Identifying a required field with the aria-required property
+
 </div>
