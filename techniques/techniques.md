@@ -8,8 +8,10 @@ permalink: /techniques/
    
 <div class="inner" markdown="1">
 
-- Using the aria-describedby property to provide a descriptive label for user interface controls
+1. Using the aria-describedby property to provide a descriptive label for user interface controls
 
-- Identifying a required field with the aria-required property
+2. Identifying a required field with the aria-required property
+
+10. Using ARIA landmarks to identify regions of a page
 
 </div>

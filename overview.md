@@ -68,6 +68,8 @@ To better understand where we are going to go first let's  get a bird's eye view
 
 - **APG**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ARIA Authoring Practices Guide
 
+- **WAI-ARIA**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;the Accessible Rich Internet Applications Suite
+
 &nbsp; 
 
 ## Links
@@ -89,5 +91,7 @@ To better understand where we are going to go first let's  get a bird's eye view
 - [Accessible Web](https://accessibleweb.com){:target="_blank"}
 
 - [Best Practices](https://www.deque.com/blog/category/accessibility-best-practices/){:target="_blank"}
+
+- [Ryerson](https://pressbooks.library.ryerson.ca/wafd/chapter/what-is-wai-aria/){:target="_blank"}
 
 </div>
