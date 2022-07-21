@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "Examples of techniques to conform to adaptable guidline"
 permalink: /adaptable-techniques-examples/
 ---
+
+# Examples of techniques to conform to adaptable guidline
 
 Sighted users perceive structure and relationships through various visual cues:
 
