@@ -25,3 +25,9 @@
 - [Conformance](https://shoshiko.github.io/conformance)
 
 - [WAI-ARIA](https://shoshiko.github.io/wai-aria-overview)
+
+  - [Roles](https://shoshiko.github.io/roles-overview)
+
+  - [States](https://shoshiko.github.io/states-overview)
+
+  - [Properties](https://shoshiko.github.io/properties-overview)
