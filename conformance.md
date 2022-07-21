@@ -32,8 +32,6 @@ To conform to WCAG 2.0, satisfy the Success Criteria = there is no content which
   
 - **Level AAA**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **A** + **AA** + **AAA** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**AAA** conforming alternate version.
 
-&nbsp;
-
 **Conforming alternate version** = conforms itself + same info  and funct + up-to-date + can be reached from a source
 
 ### 2. Full pages
@@ -51,6 +49,8 @@ Conformance (and conformance level) is **for full Web page(s) only**.
 ### 5. Non-Interference
 
  Anything that is not accessibility supported **should not block** users to access the rest of the page.
+
+ &nbsp;
 
  [source](https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html#uc-conforming-alt-versions-head)
 
