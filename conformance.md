@@ -18,6 +18,8 @@ Conformance to a standard = you meet its 'requirements'.
 
 To conform to WCAG 2.0, satisfy the Success Criteria = there is no content which violates the Success Criteria.
 
+&nbsp;
+
 ## 5 requirements for a content to be 'conforming'
 
 ### 1. Conformance Level
