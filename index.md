@@ -8,13 +8,13 @@
 
   - Principle #1: Perceivable
 
-    - [Guidline #1: Text Alternatives](https://shoshiko.github.io/first-guidline)
+    - [Guidline #1: Text Alternatives](https://shoshiko.github.io/guidlines/first-guidline)
 
-    - [Guidline #2: Time-based Media](https://shoshiko.github.io/second-guidline)
+    - [Guidline #2: Time-based Media](https://shoshiko.github.io/guidlines/second-guidline)
 
-    - [Guidline #3: Adaptable](https://shoshiko.github.io/third-guidline)
+    - [Guidline #3: Adaptable](https://shoshiko.github.io/guidlines/third-guidline)
 
-    - [Guidline #4: Distinguishable](https://shoshiko.github.io/forth-guidline)
+    - [Guidline #4: Distinguishable](https://shoshiko.github.io/guidlines/forth-guidline)
 
   - Principle #2: Operable
 
@@ -24,10 +24,16 @@
 
 - [Conformance](https://shoshiko.github.io/conformance)
 
-- [WAI-ARIA](https://shoshiko.github.io/wai-aria-overview)
+- [WAI-ARIA](https://shoshiko.github.io/wai/wai-aria-overview)
 
-  - [Roles](https://shoshiko.github.io/roles-overview)
+  - [Roles](https://shoshiko.github.io/states-and-properties/roles-overview)
 
-  - [States](https://shoshiko.github.io/states-overview)
+  - [States](https://shoshiko.github.io/states-and-properties/states-overview)
 
-  - [Properties](https://shoshiko.github.io/properties-overview)
+  - [Properties](https://shoshiko.github.io/states-and-properties/properties-overview)
+
+- Other
+
+    - [Interactive elements](https://shoshiko.github.io/controls/interactive-elements/)
+
+
